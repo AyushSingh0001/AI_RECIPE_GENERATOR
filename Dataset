@@ -1,0 +1,14 @@
+# Recipe dataset with ingredients and calories
+recipes = {
+    "pasta": {"ingredients": ["pasta", "tomato sauce", "cheese"], "recipe": "Boil pasta, add sauce, and cook for 10 minutes.", "calories": 350},
+    "chicken curry": {"ingredients": ["chicken", "onions", "spices"], "recipe": "Marinate chicken, sauté onions, add spices, and simmer.", "calories": 450},
+    "pancake": {"ingredients": ["flour", "eggs", "milk"], "recipe": "Mix flour, eggs, and milk, then fry.", "calories": 300},
+    "biryani": {"ingredients": ["rice", "chicken", "spices"], "recipe": "Layer rice and meat with spices, then cook on low heat.", "calories": 500},
+    "chocolate cake": {"ingredients": ["cocoa", "flour", "sugar", "eggs"], "recipe": "Mix cocoa, flour, sugar, and eggs, then bake.", "calories": 400},
+    "fried rice": {"ingredients": ["rice", "vegetables", "soy sauce"], "recipe": "Stir-fry rice with vegetables, soy sauce, and protein of choice.", "calories": 320},
+    "omelette": {"ingredients": ["eggs", "cheese", "salt"], "recipe": "Beat eggs, add salt and pepper, then cook in a pan.", "calories": 250},
+    "burger": {"ingredients": ["bun", "beef patty", "lettuce", "cheese"], "recipe": "Grill the patty, place in a bun with lettuce, cheese, and sauce.", "calories": 550},
+    "tacos": {"ingredients": ["taco shells", "meat", "salsa"], "recipe": "Fill taco shells with seasoned meat, salsa, and cheese.", "calories": 380},
+    "sushi": {"ingredients": ["rice", "fish", "seaweed"], "recipe": "Roll rice and fish in seaweed, then slice into pieces.", "calories": 300},
+    "pizza": {"ingredients": ["dough", "tomato sauce", "cheese"], "recipe": "Spread sauce on dough, add toppings, and bake until crispy.", "calories": 600},
+}
